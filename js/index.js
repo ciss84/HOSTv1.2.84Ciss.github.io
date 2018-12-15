@@ -100,7 +100,7 @@ var model = {
       selectedIndex: 0,
       active: false,
       icon: "subscriptions",
-      items: [{title: "MP4PLAYER", desc:"Media player for MP4 movies over network", version: "1.0 by DEFAULTDNB", active: false, icon: "airplay", expage: "Utility/playerloader.html" }, {title: "MP3PLAYER", desc:"Audio player for music files over network", version: "COMING SOON by DEFAULTDNB", active: false, icon: "audiotrack" }]
+      items: [{title: "MP4PLAYER", desc:"Media player for MP4 movies over network", version: "1.0 by DEFAULTDNB", active: false, icon: "airplay", expage: "payloads/playerloader.html" }, {title: "MP3PLAYER", desc:"Audio player for music files over network", version: "COMING SOON by DEFAULTDNB", active: false, icon: "audiotrack" }]
 	},
 	"CACHE": {
       index: 12,
