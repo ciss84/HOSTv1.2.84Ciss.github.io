@@ -7,9 +7,13 @@
 ![Alt text](https://github.com/ciss84/HOST.84Ciss.github.io/blob/master/Capture.PNG?raw=true "Title")
 
 # Changelog Mods
-
---
-
+- Ajout de la détection de la version du webkit
+- Ajout de hostpkg by scorpion
+- Modification du theme
+-
+-
+-
+-
 # Changelog v1.5.2
 - Mise à jour du message d'activation / désactivation de X-Project DEBUG (activé / désactivé).
 - Ajout de la détection d'usurpation FW / VR.
