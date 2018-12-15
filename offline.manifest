@@ -1,5 +1,7 @@
 CACHE MANIFEST 
+Capture.PNG
 index.html
+README.md
 css\icons.css
 css\MaterialIcons-Regular.ttf
 css\style.css
@@ -98,7 +100,6 @@ payloads\mirabin.html
 payloads\mirahen.html
 payloads\orbisafr.html
 payloads\pkgbackup.html
-payloads\playerloader.html
 payloads\ps4api.html
 payloads\ps4apibisoon.html
 payloads\react.html
@@ -232,6 +233,7 @@ Utility\5.55\Exploit-555\exploit\5.55\syscalls.js
 Utility\5.55\Exploit-555\exploit\5.55\userland.js
 Utility\player\player.html
 Utility\player\player.jpg
+Utility\player\playerloader.html
 Utility\rpigui\index.html
 Utility\rpigui\RPILOADER.html
 Utility\rpigui\js\font.gif
