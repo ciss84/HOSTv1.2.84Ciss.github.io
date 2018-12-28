@@ -10,10 +10,10 @@
 - Ajout de la détection de la version du webkit
 - Ajout de hostpkg by scorpion
 - Modification du theme
+- 
 -
 -
--
--
+-mise a jour pour le cache 100% fontionnelle
 # Changelog v1.5.2
 - Mise à jour du message d'activation / désactivation de X-Project DEBUG (activé / désactivé).
 - Ajout de la détection d'usurpation FW / VR.
