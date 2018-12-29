@@ -14,21 +14,21 @@ var model = {
       icon: 'style',
       items: [{ title: "VTX HEN", desc: "Inc: self spawn & usermode printf to klog patches", version: "1.8 by Zecoxao", active: false, icon: "lock", expage: "payloads/vtxhenzecomod.html" }, { title: "BINLOADER", desc: "Enable only BIN LOADER function on port:9020", version: "1.7 by OpenOrbisTeam", active: false, icon: "send", expage: "payloads/binloader.html" }, { title: "VTX DUMPER", desc: "Dump disc/PSN games to USB: with/without patches, merged/unmerged", version: "1.8 by xVortex", active: false, icon: "archive", expage: "payloads/vtxdump.html"}, { title: "FTP+R/W", desc:"Starts an ftp server with full R/W on all 16 partitions of your PS4.", version: "1.0 by Lightningmods", active: false, icon: "warning", expage: "payloads/ftprw.html"}]
     },
-    "HEN": {
-      index: 1,
-      title: "HEN",
-      selectedIndex: 0,
-      active: false,
-      icon: 'gamepad',
-      items: [{ title: "VTX HEN", desc: "Inc: self spawn & usermode printf to klog patches", version: "1.8 by Zecoxao", active: false, icon: "lock", expage: "payloads/vtxhenzecomod.html" }, {title: "1.8 HEN+VR", desc: "Enables HEN 1.8 and VR all in one", version: "1.8 mod by Stooged", active: false, icon: "polymer", expage: "payloads/hen18vrmod.html" }, { title: "SYSCALL 9", desc: "Unjail with UART", version: "1.0 by Lightningmods", active: false, icon: "description", expage: "Mods/GTA/sys9.html" },{ title: "VTX HEN", desc: "Runs fake signed content. Inc: update blocker & debug settings", version: "1.7 by xVortex", active: false, icon: "lock", expage: "payloads/vtxhen.html" },{ title: "VTX HEN+VR", desc: "Enable VTX HEN 1.7 and VR all in one", version: "1.7 mod by Stooged", active: false, icon: "polymer", expage: "payloads/vtxhenvrmod.html" }, {title: "VTX HEN+SCREENSHOT", desc: "Enable VTX HEN 1.7 with no in app screenshot limitations", version: "1.7 mod by BIORN", active: false, icon: "tab", expage: "payloads/screenshot.html" }, {title: "VTX HEN (LITE)", desc: "Enable VTX HEN 1.7 without the update blocker", version: "1.7 mod by C0d3m4st4", active: false, icon: "loupe", expage: "payloads/vtxhenc0d3mod.html" }, { title: "VTX HEN+AUTH", desc: "Enables VTX HEN 1.7 with AUTH patches", version: "1.7 mod by Björn", active: false, icon: "texture", expage: "payloads/henauth.html" }, { title: "MIRAHEN", desc: "Run fake signed content. Inc: debug settings, Kernel logging (port 9999/9998)", version: "1.7 by OpenOrbisTeam", active: false, icon: "apps", expage: "payloads/mirahen.html" }, { title: "MIRA", desc: "Enable only MIRA Kernel Logging (port 9999/9998)", version: "1.7 by OpenOrbisTeam", active: false, icon: "nfc", expage: "payloads/mira.html" }, { title: "BINLOADER", desc: "Enable only BIN LOADER function on port:9020", version: "1.7 by OpenOrbisTeam", active: false, icon: "send", expage: "payloads/binloader.html" }, { title: "MIRAHEN+BINLOADER", desc: "Enable MIRA HEN with BINLOADER", version: "1.7 by OpenOrbisTeam", active: false, icon: "input", expage: "payloads/mirabin.html" }]
-    },
     "HEN 4.74": {
-      index: 2,
+      index: 1,
       title: "HEN 4.74",
       selectedIndex: 0,
       active: false,
       icon: 'gamepad',
       items: [{ title: "4.74 HEN", desc: "Inc: self spawn & usermode printf to klog patches", version: "4.74 by Zecoxao", active: false, icon: "lock", expage: "payloads/PS4Brew4.74.html" }]
+    },
+    "HEN 5.05": {
+      index: 2,
+      title: "HEN 5.05",
+      selectedIndex: 0,
+      active: false,
+      icon: 'gamepad',
+      items: [{ title: "VTX HEN", desc: "Inc: self spawn & usermode printf to klog patches", version: "1.8 by Zecoxao", active: false, icon: "lock", expage: "payloads/vtxhenzecomod.html" }, {title: "1.8 HEN+VR", desc: "Enables HEN 1.8 and VR all in one", version: "1.8 mod by Stooged", active: false, icon: "polymer", expage: "payloads/hen18vrmod.html" }, { title: "SYSCALL 9", desc: "Unjail with UART", version: "1.0 by Lightningmods", active: false, icon: "description", expage: "Mods/GTA/sys9.html" },{ title: "VTX HEN", desc: "Runs fake signed content. Inc: update blocker & debug settings", version: "1.7 by xVortex", active: false, icon: "lock", expage: "payloads/vtxhen.html" },{ title: "VTX HEN+VR", desc: "Enable VTX HEN 1.7 and VR all in one", version: "1.7 mod by Stooged", active: false, icon: "polymer", expage: "payloads/vtxhenvrmod.html" }, {title: "VTX HEN+SCREENSHOT", desc: "Enable VTX HEN 1.7 with no in app screenshot limitations", version: "1.7 mod by BIORN", active: false, icon: "tab", expage: "payloads/screenshot.html" }, {title: "VTX HEN (LITE)", desc: "Enable VTX HEN 1.7 without the update blocker", version: "1.7 mod by C0d3m4st4", active: false, icon: "loupe", expage: "payloads/vtxhenc0d3mod.html" }, { title: "VTX HEN+AUTH", desc: "Enables VTX HEN 1.7 with AUTH patches", version: "1.7 mod by Björn", active: false, icon: "texture", expage: "payloads/henauth.html" }, { title: "MIRAHEN", desc: "Run fake signed content. Inc: debug settings, Kernel logging (port 9999/9998)", version: "1.7 by OpenOrbisTeam", active: false, icon: "apps", expage: "payloads/mirahen.html" }, { title: "MIRA", desc: "Enable only MIRA Kernel Logging (port 9999/9998)", version: "1.7 by OpenOrbisTeam", active: false, icon: "nfc", expage: "payloads/mira.html" }, { title: "BINLOADER", desc: "Enable only BIN LOADER function on port:9020", version: "1.7 by OpenOrbisTeam", active: false, icon: "send", expage: "payloads/binloader.html" }, { title: "MIRAHEN+BINLOADER", desc: "Enable MIRA HEN with BINLOADER", version: "1.7 by OpenOrbisTeam", active: false, icon: "input", expage: "payloads/mirabin.html" }]
     },
     "BLOCK": {
       index: 3,
