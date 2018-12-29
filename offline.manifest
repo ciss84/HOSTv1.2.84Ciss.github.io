@@ -100,6 +100,7 @@ payloads\orbisafr.html
 payloads\pkgbackup.html
 payloads\ps4api.html
 payloads\ps4apibisoon.html
+payloads\PS4Brew4.74.html
 payloads\react.html
 payloads\reactloader.html
 payloads\reactmod.html
@@ -205,6 +206,12 @@ payloads\games\snake\index.html
 payloads\games\snake\snake.css
 payloads\games\snake\snake.js
 payloads\games\snake\snakeloader.html
+payloads\PS4Brew 4.74_files\expl.js.t‚l‚chargement
+payloads\PS4Brew 4.74_files\homebrew.js.t‚l‚chargement
+payloads\PS4Brew 4.74_files\mira.js.t‚l‚chargement
+payloads\PS4Brew 4.74_files\rop.js.t‚l‚chargement
+payloads\PS4Brew 4.74_files\syscalls.js.t‚l‚chargement
+payloads\PS4Brew 4.74_files\userland.js.t‚l‚chargement
 Utility\5.55\5.55.html
 Utility\5.55\Exploit-555\bootstrap.min.css
 Utility\5.55\Exploit-555\bootstrap.min.js
