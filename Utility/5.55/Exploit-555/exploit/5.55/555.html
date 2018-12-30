@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>PS4 WebKit exploit for 5.55</title>
+<link rel="shortcut icon" type="image/x-icon" href="#" favicon.ico">
+</head>
+<body>
+	<script>
+        window.didload = 0;
+        window.didpost = 0;
+        window.onload = function() {
+        window.didload = 1;
+        if (window.didpost == 1)
+            window.stage2();
+        }
+        window.postExpl = function() {
+        window.didpost = 1;
+        if (window.didload == 1)
+            window.stage2();
+        }
+    </script>
+<script src="expl.js"></script>
+<script src="rop.js"></script>
+<script src="sockets.js"></script>
+<center>Rewrite by <a href="https://twitter.com/qwertyoruiopz">qwertyoruiopz</a><br>
+<center><pre id="console"></pre><br><br></center>
+</center>
+</body>
+</html>
