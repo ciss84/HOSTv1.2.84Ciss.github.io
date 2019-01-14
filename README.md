@@ -12,7 +12,7 @@
 - Modification du theme
 - Ajout du 5.55 webkit root by @84Ciss
 - Ajout du 6.02/6.20 webkit test by @C0rpVultra
--
+- pour utilise le debug menu allé sur host mods by 84Ciss
 - mise a jour pour le cache 100% fontionnelle
 # Changelog v1.5.2
 - Mise à jour du message d'activation / désactivation de X-Project DEBUG (activé / désactivé).
